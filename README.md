@@ -2,6 +2,8 @@
 cd Github
 cd s6yxq
 -
+contact: syxq'inser#1337
+-
 Output:
 
 Name: Syeq
